@@ -27,7 +27,7 @@ def perform_voice_search():
 
 # Set OpenAI API key
 openai.api_key = "YOUR-OPENAI-API-KEY"
-st.title("🦜🔗 With Sakhi")
+st.title("🦜🔗 Assistant With Voice")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
