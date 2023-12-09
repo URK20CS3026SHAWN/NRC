@@ -1,5 +1,5 @@
 # NRC
-Testing and Sharing of Experimentation
+Testing and Experimentation with Langchain
 
 This is a repository dedicated to the work I have Done on Large Language Models using the Langchain.
 
