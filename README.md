@@ -10,3 +10,10 @@ This is a repository dedicated to the work I have Done on Large Language Models 
 5. I have also reimplemented the ChatwithPDF with Langchain's ChromaDB integration and RetrievalQA chain.
 6. I also looked into SentenceTransformerEmbedding,Text2VecEmbedding, CohereEmbedding, HuggingFaceEmbedding, InstructorEmbedding and MiniLM_L6_V2 Embeddings.
 7. I have also looked into developing custom embeddings using Chroma's Custom Embedding Functions for developing embeddings that can vectorize tablular data too by making use of MET and SliceMyPdf
+
+### MET : Masked Encoding Tabular Data
+https://github.com/google-research/met 
+### SlicemyPDF
+https://github.com/StatCan/SLICEmyPDF
+
+
